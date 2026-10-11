@@ -2,8 +2,8 @@
 
 인프라 취약점 진단, 조치 이행점검, 보안관제와 웹·모바일 진단 경험을 정리한 포트폴리오입니다.
 
-- [포트폴리오 웹사이트](https://ryuyunseong.github.io/hyundai-autoever-portfolio/)
-- [포트폴리오 PDF](https://ryuyunseong.github.io/hyundai-autoever-portfolio/assets/portfolio.pdf)
+- [포트폴리오 웹사이트](https://ryuyunseong.github.io/security-portfolio/)
+- [포트폴리오 PDF](https://ryuyunseong.github.io/security-portfolio/assets/portfolio.pdf)
 
 ## 로컬 실행
 
