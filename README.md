@@ -15,4 +15,3 @@ python -m http.server 8000 --bind 127.0.0.1
 
 브라우저에서 `http://127.0.0.1:8000/`을 엽니다.
 
-경험이나 역할 설명을 고칠 때는 웹 본문과 `assets/portfolio.pdf`를 함께 갱신합니다.
